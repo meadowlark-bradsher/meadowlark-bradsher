@@ -4,5 +4,5 @@ Data-infrastructure engineer — Kafka/CDC, distributed systems, data governance
 
 Most of what's public here is that second thread: uncertainty quantification, belief/constraint modeling, and human-in-the-loop protocols for AI-generated code.
 
-- **Currently:** building out [PREP](https://github.com/meadowlark-bradsher/PREP) — a self-PR protocol for keeping human ownership of AI-generated code
+- **Currently:** working on verifying math for a frequentist test to detect intransitivity in LLM ranking tasks
 - **Day job:** platform & data infrastructure @ Guidewire
